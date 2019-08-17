@@ -1,3 +1,3 @@
 const sum = (a, b) => a + b;
 
-console.log('sum: ', sum(4, 5));
+console.log('sum: ', sum(5, 7));
