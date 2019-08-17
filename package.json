@@ -1,6 +1,6 @@
 {
-  "name": "@slaym/hello-world-npm",
-  "version": "1.0.0",
+  "name": "@dmitriy_slaym/hello-world-npm",
+  "version": "0.0.1",
   "description": "Testing npm publishing",
   "main": "index.js",
   "scripts": {
